@@ -17,7 +17,7 @@ que foi encontrada e corrigida).
 [![License: MIT](https://img.shields.io/badge/License-MIT-94a3b8?style=for-the-badge)](./LICENSE)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--ozores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-ozores/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-xperiun-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://app.xperiun.com/in/victor-ozores)
+[![Portfolio](https://img.shields.io/badge/Portfolio-xperiun-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://app.xperiun.com/in/victor-ozores-2)
 [![GitHub](https://img.shields.io/badge/GitHub-victor--ozores-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victor-ozores)
 
 </div>
