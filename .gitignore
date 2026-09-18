@@ -1,0 +1,53 @@
+# === Dados sensíveis / brutos (LGPD) — NUNCA versionar ===
+BaseDados.xlsx
+data/raw/
+data/deparas/
+*deparas*
+*de_para*
+*mapa_pseudonimizacao*
+tests/_pii_local.py
+
+# === Dados processados (não sensíveis, mas não usados pelo front — só o
+# dashboard/public/data/dashboard_data.json é consumido no build) ===
+data/processed/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# === Node / dashboard (Vite + React) ===
+dashboard/node_modules/
+dashboard/dist/
+dashboard/build/
+node_modules/
+dist/
+build/
+.vercel/
+
+# === Ambiente / segredos ===
+.env
+.env.local
+*.log
+
+# === SO / editor ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# builds de preview geradas durante revisao (Claude)
+dashboard/dist-preview*/
+
+# === Config local / material que não faz parte do case publicado ===
+.claude/
+prompt_claude_code_dashboard_otif.md
+POST_LINKEDIN.md
+
+# === Lixo temporario do Vite (gerado a cada build/dev, nao deveria sobrar) ===
+dashboard/vite.config.js.timestamp-*
